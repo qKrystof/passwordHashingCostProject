@@ -1,0 +1,8 @@
+{
+  "name": "login-server",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.4.5"
+  }
+}

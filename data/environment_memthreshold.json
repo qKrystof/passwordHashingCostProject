@@ -1,0 +1,11 @@
+{
+  "bun": "1.4.4",
+  "go": "go version go1.27.3 linux/amd64",
+  "python": "3.14.8",
+  "kernel": "7.2.15-1-omarchy",
+  "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+  "logical_cpus": 12,
+  "mem_total": "MemTotal:       31903052 kB",
+  "governor": "performance",
+  "date": "2026-11-20T23:33:00+0100"
+}
